@@ -1,2 +1,4 @@
 Nama	: Intan Pratiwi
 NPM	: 140810160022
+TTL	: Simpang Batu Hampar/12 April 1998
+JK	: Perempuan
